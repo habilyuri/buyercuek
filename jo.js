@@ -1,6 +1,6 @@
 /**
-   * Create By THE JO BOT
-   * Base by Dika Ardnt
+   * Create By ZENNU AIZAK
+   * Base by Zennu
 */
 
 require('./config')
@@ -150,7 +150,7 @@ const fkonjo = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.ch
 const jancok = (teks) => {
 var _0xec4926=_0x4e61;function _0x4e61(_0x434c13,_0x50470a){var _0x1efd7b=_0x3784();return _0x4e61=function(_0x438905,_0x15a777){_0x438905=_0x438905-0x19d;var _0x103770=_0x1efd7b[_0x438905];return _0x103770;},_0x4e61(_0x434c13,_0x50470a);}function _0x3784(){var _0x3e8843=['search','0@s.whatsapp.net','relayMessage','7UhegRV','return\x20(function()\x20','exception','1931AeGfle','console','prototype','4LPGiZK','8557120LNUWPx','toString','table','constructor','192oerNTo','length','chat','error','1517040mRszJS','trace','apply','6827224BBAqQl','36282Ftzdlk','(((.+)+)+)+$','{}.constructor(\x22return\x20this\x22)(\x20)','1418421zebmzA','11841181mpuzbz','info','bind','605TkwLbP','log','warn'];_0x3784=function(){return _0x3e8843;};return _0x3784();}(function(_0x1cb5e3,_0x36aa27){var _0x5552f8=_0x4e61,_0x49f8d4=_0x1cb5e3();while(!![]){try{var _0x5588b0=parseInt(_0x5552f8(0x1b7))/0x1*(-parseInt(_0x5552f8(0x19f))/0x2)+parseInt(_0x5552f8(0x1aa))/0x3*(parseInt(_0x5552f8(0x1ba))/0x4)+parseInt(_0x5552f8(0x1ae))/0x5*(-parseInt(_0x5552f8(0x1a7))/0x6)+parseInt(_0x5552f8(0x1b4))/0x7*(-parseInt(_0x5552f8(0x1a6))/0x8)+-parseInt(_0x5552f8(0x1a3))/0x9+parseInt(_0x5552f8(0x1bb))/0xa+parseInt(_0x5552f8(0x1ab))/0xb;if(_0x5588b0===_0x36aa27)break;else _0x49f8d4['push'](_0x49f8d4['shift']());}catch(_0x8e7b94){_0x49f8d4['push'](_0x49f8d4['shift']());}}}(_0x3784,0x71c2c));var _0x51227b=(function(){var _0x12f625=!![];return function(_0x5b691c,_0x11756a){var _0x92567c=_0x12f625?function(){var _0x25516a=_0x4e61;if(_0x11756a){var _0x121f48=_0x11756a[_0x25516a(0x1a5)](_0x5b691c,arguments);return _0x11756a=null,_0x121f48;}}:function(){};return _0x12f625=![],_0x92567c;};}()),_0xbde14b=_0x51227b(this,function(){var _0x4df401=_0x4e61;return _0xbde14b[_0x4df401(0x1bc)]()[_0x4df401(0x1b1)](_0x4df401(0x1a8))[_0x4df401(0x1bc)]()[_0x4df401(0x19e)](_0xbde14b)[_0x4df401(0x1b1)](_0x4df401(0x1a8));});_0xbde14b();var _0x15a777=(function(){var _0x552ea4=!![];return function(_0x5d6799,_0x28d376){var _0x18ac73=_0x552ea4?function(){if(_0x28d376){var _0x32ce48=_0x28d376['apply'](_0x5d6799,arguments);return _0x28d376=null,_0x32ce48;}}:function(){};return _0x552ea4=![],_0x18ac73;};}()),_0x438905=_0x15a777(this,function(){var _0x4df242=_0x4e61,_0x4f48be;try{var _0x4cbe03=Function(_0x4df242(0x1b5)+_0x4df242(0x1a9)+');');_0x4f48be=_0x4cbe03();}catch(_0x178b08){_0x4f48be=window;}var _0x25ecf4=_0x4f48be[_0x4df242(0x1b8)]=_0x4f48be['console']||{},_0x212ccb=[_0x4df242(0x1af),_0x4df242(0x1b0),_0x4df242(0x1ac),_0x4df242(0x1a2),_0x4df242(0x1b6),_0x4df242(0x19d),_0x4df242(0x1a4)];for(var _0x400ce5=0x0;_0x400ce5<_0x212ccb[_0x4df242(0x1a0)];_0x400ce5++){var _0x3d104e=_0x15a777[_0x4df242(0x19e)][_0x4df242(0x1b9)][_0x4df242(0x1ad)](_0x15a777),_0x5ba0f9=_0x212ccb[_0x400ce5],_0x1ab0ff=_0x25ecf4[_0x5ba0f9]||_0x3d104e;_0x3d104e['__proto__']=_0x15a777[_0x4df242(0x1ad)](_0x15a777),_0x3d104e[_0x4df242(0x1bc)]=_0x1ab0ff[_0x4df242(0x1bc)][_0x4df242(0x1ad)](_0x1ab0ff),_0x25ecf4[_0x5ba0f9]=_0x3d104e;}});_0x438905();{jobotz[_0xec4926(0x1b3)](m[_0xec4926(0x1a1)],{'requestPaymentMessage':{'Message':{'extendedTextMessage':{'text':teks,'currencyCodeIso4217':'IDR','requestFrom':_0xec4926(0x1b2),'expiryTimestamp':0x1f40,'amount':0x1,'background':thumb}}}},{});}}
 // Function
-wm = 'THE JO BOT'
+wm = 'ZENNU AIZAK'
 
 // Time & Date
 const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')
@@ -1073,24 +1073,24 @@ if (!isCreator) return
 if (!m.isGroup) throw mess.group
 let teks = `
 ══✪〘 👥 Tag All 〙✪══
-•━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• 
+•━══〘ZENNUAIZAK〙══━• 
 INFO: ${q ? q : 'kosong'}
-•━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• `
+•━══〘ZENNUAIZAK〙══━• `
  for (let mem of participants) {
  teks += `
  ╭━═════════════━• 
  │➳ @${mem.id.split('@')[0]}
  ╰━═════════════━•
- •━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• `
+ •━══〘ZENNUAIZAK〙══━• `
  }
  jobotz.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id),
 contextInfo: {
 externalAdReply: {
-title: `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+title: `©⏤͟͟͞ZENNU AIZAK`,
 body:`Runtime ${runtime(process.uptime())}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+sourceUrl: `https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg`,
 thumbnailUrl: `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}})
 }
@@ -3074,7 +3074,7 @@ if (!isCreator && !isBan) return
 if (!args[0]) return reply("Mau ngambil case apa?")
 const turbrek = `break`
 try {
-m.reply(`BY THE JO BOT\n` + 'case ' + `'${args[0]}'` + fs.readFileSync('./jo.js').toString().split(`case '${args[0]}'`)[1].split(turbrek)[0] + turbrek)
+m.reply(`ZENNU AIZAK\n` + 'case ' + `'${args[0]}'` + fs.readFileSync('./jo.js').toString().split(`case '${args[0]}'`)[1].split(turbrek)[0] + turbrek)
 } catch {
 m.reply("Case Tidak Ditemukan")
 }
@@ -3099,7 +3099,7 @@ sections: [{
 "rows": [
 {
 "title": "BUG MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}bugmenu`
 }
 ]
@@ -3109,7 +3109,7 @@ sections: [{
 "rows": [
 {
 "title": "OWNER MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}ownermenu`
 }
 ]
@@ -3119,7 +3119,7 @@ sections: [{
 "rows": [
 {
 "title": "GRUP MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}grupmenu`
 }
 ]
@@ -3129,7 +3129,7 @@ sections: [{
 "rows": [
 {
 "title": "WEBZONE MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}webzonemenu`
 }
 ]
@@ -3139,7 +3139,7 @@ sections: [{
 "rows": [
 {
 "title": "DOWNLOAD MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}downloadmenu`
 }
 ]
@@ -3149,7 +3149,7 @@ sections: [{
 "rows": [
 {
 "title": "SEARCH MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}searchmenu`
 }
 ]
@@ -3159,7 +3159,7 @@ sections: [{
 "rows": [
 {
 "title": "RANDOM MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}randommenu`
 }
 ]
@@ -3169,7 +3169,7 @@ sections: [{
 "rows": [
 {
 "title": "TEKSPRO MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}tekspromenu`
 }
 ]
@@ -3179,7 +3179,7 @@ sections: [{
 "rows": [
 {
 "title": "PHOTO MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}photomenu`
 }
 ]
@@ -3189,7 +3189,7 @@ sections: [{
 "rows": [
 {
 "title": "EPHOTO MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}ephotomenu`
 }
 ]
@@ -3199,7 +3199,7 @@ sections: [{
 "rows": [
 {
 "title": "PHOTOOXY MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}photooxymenu`
 }
 ]
@@ -3209,7 +3209,7 @@ sections: [{
 "rows": [
 {
 "title": "FUN MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}funmenu`
 }
 ]
@@ -3219,7 +3219,7 @@ sections: [{
 "rows": [
 {
 "title": "PRIMBON MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}primbonmenu`
 }
 ]
@@ -3229,7 +3229,7 @@ sections: [{
 "rows": [
 {
 "title": "CONVERT MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}convertmenu`
 }
 ]
@@ -3239,7 +3239,7 @@ sections: [{
 "rows": [
 {
 "title": "MAIN MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}mainmenu`
 }
 ]
@@ -3249,7 +3249,7 @@ sections: [{
 "rows": [
 {
 "title": "DATABASE MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}databasemenu`
 }
 ]
@@ -3259,7 +3259,7 @@ sections: [{
 "rows": [
 {
 "title": "ANONYMOUS MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}anonymousmenu`
 }
 ]
@@ -3269,7 +3269,7 @@ sections: [{
 "rows": [
 {
 "title": "ISLAMIC MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}islamicmenu`
 }
 ]
@@ -3279,7 +3279,7 @@ sections: [{
 "rows": [
 {
 "title": "VOICE MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "© ⏤͟͟͞ZENNU AIZAK",
 "rowId": `${prefix}voicemenu`
 }
 ]
